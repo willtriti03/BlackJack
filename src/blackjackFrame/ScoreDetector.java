@@ -49,6 +49,7 @@ public class ScoreDetector {
 			}
 	
 			score.setText("Dealer : "+dealer.getSum()+", Player : "+player.getSum()+ment);
+			
 		}
 	}
 	
